@@ -1,0 +1,17 @@
+{
+  "name": "node-blog-it",
+  "version": "1.0.0",
+  "description": "My fantabulous Nuxt.js project",
+  "author": "Sora DBH",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
